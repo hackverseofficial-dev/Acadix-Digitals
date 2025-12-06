@@ -26,6 +26,6 @@ dist-ssr
 *
 
 # Allow only src folder and gitignore itself
-!src/
+!/src/
 !.gitignore
 
